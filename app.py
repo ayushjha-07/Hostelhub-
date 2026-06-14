@@ -1,0 +1,1 @@
+from hostelhub import app
